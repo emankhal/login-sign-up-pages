@@ -11,6 +11,7 @@ a:hover{
 }
 .login-form .container{
     box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    width:90%;
 }
 .login-form .container h1{
     margin-bottom: 2rem;
